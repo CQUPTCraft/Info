@@ -179,3 +179,17 @@ MineCraft@CQUPT 服务器端插件
 [PermissionsEX]
 
 > 权限管理
+
+---
+
+[ClearLagg]() `2.9.1` 
+
+> 垃圾清理。评论区说支持1.9.4
+>
+> [Bukkit](http://dev.bukkit.org/bukkit-plugins/clearlagg/)
+
+[AutoSaveWorld]() `4.14.2`
+
+> 自动保存|自动备份|自动重启|崩溃重启
+>
+> [Bukkit](http://dev.bukkit.org/bukkit-plugins/autosaveworld/)
