@@ -8,6 +8,8 @@
 - [ ] 汉化Quests/lang/en.yml
 - [ ] 汉化SignShop
 - [ ] SkinsRestorer是否使用MySQL
+- [ ] 汉化ClearLagg
+- [ ] 汉化AutoSaveWorld
 
 ### Client
 
