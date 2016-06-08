@@ -108,7 +108,7 @@ MineCraft@CQUPT 服务器端插件
 
 > 锁箱子插件。
 
-[LockettePro]() `2.1.3` Support 1.8+
+[LockettePro]() `2.1.5` Support 1.8+
 
 > 替代Lockette。更好性能，更多选项
 >
