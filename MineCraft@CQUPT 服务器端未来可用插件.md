@@ -90,3 +90,15 @@
 >需要前置：PacketListenerAPI & MapManager
 >
 >[MCBBS](http://www.mcbbs.net/thread-502553-1-1.html)	[Spigot](https://www.spigotmc.org/resources/animatedframes-1-8-1-9.5583/)	[官网](AnimatedFrames.inventivetalent.org)
+
+[pTweaks]()
+
+> 优化区块加载
+>
+> [Bukkit](http://dev.bukkit.org/bukkit-plugins/ptweaks-remove-all-server-lag/)
+
+[Thirst]()
+
+> 口渴插件。已支持1.9
+>
+> [Bukkit](http://dev.bukkit.org/bukkit-plugins/byte-thirst/)
