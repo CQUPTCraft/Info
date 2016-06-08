@@ -84,7 +84,7 @@ MineCraft@CQUPT 服务器端插件
 
 > 砍树插件。有兼容1.8.X的版本
 
-[Marriage Reloaded](http://dev.bukkit.org/bukkit-plugins/marriage-reloaded/) `2.0.9` Suuport 1.9 & 1.8
+[Marriage Reloaded](http://dev.bukkit.org/bukkit-plugins/marriage-reloaded/) `2.0.10` Suuport 1.9 & 1.8
 
 > 一款结婚插件而已。
 
