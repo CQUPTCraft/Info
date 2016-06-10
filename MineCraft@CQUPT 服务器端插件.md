@@ -139,6 +139,8 @@ MineCraft@CQUPT 服务器端插件
 [ScriptBlock]() `0.8.72`
 
 > 脚本方块
+>
+> [Bukkit](http://dev.bukkit.org/bukkit-plugins/scriptblock/)	[]
 
 ---
 
