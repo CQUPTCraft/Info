@@ -1,0 +1,3 @@
+- 清除/mod/VoxelMods下的缓存文件
+- 将Configurations里面的"Default"设置为forge
+- “last”中指向forge版本

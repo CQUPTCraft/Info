@@ -80,7 +80,7 @@ MineCraft@CQUPT 服务器端插件
 
 > 简单的一个前置插件
 
-[TreeAssist](https://www.spigotmc.org/resources/treeassist.16941/) `5.10.1` Support 1.9 Only
+! [TreeAssist](https://www.spigotmc.org/resources/treeassist.16941/) `5.10.1` Support 1.9 Only 暂时移除
 
 > 砍树插件。有兼容1.8.X的版本
 
