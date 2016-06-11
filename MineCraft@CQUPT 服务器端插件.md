@@ -203,3 +203,11 @@ MineCraft@CQUPT 服务器端插件
 > 传送牌子
 >
 > [Bukkit](http://dev.bukkit.org/bukkit-plugins/teleportsigns/)
+
+---
+
+[ChopTreeW]() `1.7` Suuport 1.9
+
+> 砍树插件。替换TreeAssist。
+>
+> [MCBBS](http://www.mcbbs.net/thread-544533-1-4.html)	[Spigot](https://www.spigotmc.org/resources/choptreew.17585/)
