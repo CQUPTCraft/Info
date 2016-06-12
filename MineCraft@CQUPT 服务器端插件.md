@@ -206,8 +206,16 @@ MineCraft@CQUPT 服务器端插件
 
 ---
 
-[ChopTreeW]() `1.7` Suuport 1.9
+[ChopTreeW]() `1.7` Support 1.9
 
 > 砍树插件。替换TreeAssist。
 >
 > [MCBBS](http://www.mcbbs.net/thread-544533-1-4.html)	[Spigot](https://www.spigotmc.org/resources/choptreew.17585/)
+
+---
+
+[FastAsyncWorldEdit]() `3.5.1` Support 1.9
+
+> 加快WE运行速度，减少蹦服情况
+>
+> [Spigot](https://www.spigotmc.org/resources/free-fast-async-worldedit-voxelsniper-%CE%B2eta.13932/)	[下载地址](http://ci.athion.net/job/FastAsyncWorldEdit/)

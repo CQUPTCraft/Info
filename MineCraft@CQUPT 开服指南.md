@@ -13,6 +13,26 @@ TRUNCATE TABLE marriage_players;
 TRUNCATE TABLE marriage_version;
 ```
 
+* CoreProtect也可以采用
+
+  ```mysql
+  TRUNCATE TABLE co_art_map;
+  TRUNCATE TABLE co_block;
+  TRUNCATE TABLE co_chat;
+  TRUNCATE TABLE co_command;
+  TRUNCATE TABLE co_container;
+  TRUNCATE TABLE co_entity;
+  TRUNCATE TABLE co_entity_map;
+  TRUNCATE TABLE co_material_map;
+  TRUNCATE TABLE co_session;
+  TRUNCATE TABLE co_sign;
+  TRUNCATE TABLE co_skull;
+  TRUNCATE TABLE co_user;
+  TRUNCATE TABLE co_username_log;
+  ```
+
+  ​
+
 * 删除World和附属数据（末地、地狱）
 
 
@@ -75,12 +95,12 @@ newbies:
 
   *  修改数据库配置
 
-  * 关闭自动清理
+  *  关闭自动清理
 
-  * ```ya
-    auto-purge:
-    	enabled: false
-    ```
+  *  ```ya
+     auto-purge:
+     	enabled: false
+     ```
 
 
 - PermissionsEX
