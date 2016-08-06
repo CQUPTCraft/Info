@@ -2,7 +2,7 @@ MineCraft@CQUPT 服务器端插件
 
 ****
 
-[AuthME Reloaded](http://dev.bukkit.org/bukkit-plugins/authme-reloaded) `5.2 BETA 2`
+[AuthME Reloaded](http://dev.bukkit.org/bukkit-plugins/authme-reloaded) `5.2 BETA 3`1.10
 
 > 老牌登陆插件
 
@@ -10,19 +10,6 @@ MineCraft@CQUPT 服务器端插件
 [PlugMan](http://dev.bukkit.org/bukkit-plugins/plugman/) `2.1.1`
 
 > 插件管理插件
-
-[AutoMessage](http://dev.bukkit.org/bukkit-plugins/automessage) `2.5.5`
-
-> 自动发话。目前版本支持到1.9-R0.1
-
-
-! 暂时移除[ChestCommands](http://dev.bukkit.org/bukkit-plugins/chest-commands) `3.1.4`
-
-> 拥有GUI界面的命令执行工具。支持Vault插件
-
-! 未加入[ScheduledCommands](http://dev.bukkit.org/bukkit-plugins/scheduledcommands/) `1.2`
-
-> 配合ChestCommands使用，可以延时执行命令，即便玩家下线也可以做到。未注明支持1.9
 
 [CoreProtect](http://dev.bukkit.org/bukkit-plugins/coreprotect) `2.12.0`
 
@@ -57,36 +44,7 @@ MineCraft@CQUPT 服务器端插件
 [Vault](http://dev.bukkit.org/bukkit-plugins/vault) `1.5.6` 
 
 > 仅支持1.8+。未注明支持1.9。
-
-[GlobalMarket](http://dev.bukkit.org/bukkit-plugins/global-market) `2.0.20`
-
-> 目前汉化版仅找到2.0.20，最新版为2.0.28
 >
-> 支持1.9
-
-[Multiverse-core](http://dev.bukkit.org/bukkit-plugins/multiverse-core) `2.5-b717`
-
-> 多世界插件
->
-> 支持1.9
-
-[WorldEdit](http://dev.bukkit.org/bukkit-plugins/worldedit) `6.1.2` Support 1.9
-
-> 创世神
-
----
-
-[BarAPI](http://dev.bukkit.org/bukkit-plugins/bar-api/) `3.4` Support 1.9
-
-> 简单的一个前置插件
-
-! [TreeAssist](https://www.spigotmc.org/resources/treeassist.16941/) `5.10.1` Support 1.9 Only 暂时移除
-
-> 砍树插件。有兼容1.8.X的版本
-
-[Marriage Reloaded](http://dev.bukkit.org/bukkit-plugins/marriage-reloaded/) `2.0.10` Suuport 1.9 & 1.8
-
-> 一款结婚插件而已。
 
 [ColorMOTD](http://www.mcbbs.net/thread-448326-1-1.html) `1.5b` Support 取决于 ProtocolLib`最低要求3.4.0` 
 
@@ -104,10 +62,6 @@ MineCraft@CQUPT 服务器端插件
 
 > 看名字。来自nayycat（喵窝）。
 
-! 已被替代[Lockette](http://dev.bukkit.org/bukkit-plugins/lockette/) `1.8.21` Support 1.8+
-
-> 锁箱子插件。
-
 [LockettePro]() `2.1.5` Support 1.8+
 
 > 替代Lockette。更好性能，更多选项
@@ -115,26 +69,14 @@ MineCraft@CQUPT 服务器端插件
 > 附带官方中文语言包（MCBBS）
 >
 > [MCBBS](http://www.mcbbs.net/thread-567962-1-1.html)	[Spigot](https://www.spigotmc.org/resources/lockettepro.20427/)	[Bukkit](http://dev.bukkit.org/bukkit-plugins/lockettepro/files/) 
-
-! 已移除**MINIGAME** [BlockHunt](http://dev.bukkit.org/bukkit-plugins/blockhunt/) `0.2.1` Support 1.9
-
-> 躲猫猫。
-
-! 已移除**MINIGAME** [HotPotato](http://dev.bukkit.org/bukkit-plugins/hot-potato/) `1.2.2` Support 1.8
-
-> 烫手山芋
-
-----
+>
 
 [SkinsRestorer](https://www.spigotmc.org/resources/skinsrestorer.2124/) `11.6.1` Suport 1.7-1.9
+
 
 > 给离线模式下的服务器提供正版皮肤
 >
 > 需要给予权限
-
-[@](http://www.mcbbs.net/thread-210101-1-1.html) `NULL` 
-
-> @别人
 
 [ScriptBlock]() `0.8.72`
 
@@ -148,7 +90,7 @@ MineCraft@CQUPT 服务器端插件
 
 > 牌子商店
 
-[dynmap](https://www.spigotmc.org/resources/dynmap.274/) `2.3-alpha-2`
+[dynmap](https://www.spigotmc.org/resources/dynmap.274/) `2.3` 1.10
 
 > [主要支持页面](https://www.spigotmc.org/resources/dynmap.274/) 
 > 卫星地图
@@ -179,7 +121,6 @@ MineCraft@CQUPT 服务器端插件
 > [lycraft.lt](http://ltcraft.lt/Residence/)	[MCBBS](http://www.mcbbs.net/thread-559010-1-1.html) 附中文翻译
 
 [PermissionsEX](https://dev.bukkit.org/bukkit-plugins/permissionsex/) `1.23.4`
-
 > 权限管理
 >
 > [Wiki](https://github.com/PEXPlugins/PermissionsEx/wiki)
@@ -214,10 +155,16 @@ MineCraft@CQUPT 服务器端插件
 >
 > [MCBBS](http://www.mcbbs.net/thread-544533-1-4.html)	[Spigot](https://www.spigotmc.org/resources/choptreew.17585/)
 
+[ArmorHUD](https://dev.bukkit.org/bukkit-plugins/armorhud/) `1.12` 1.9
+
+> 客户端显示装备耐久
+>
+> [Curse](https://mods.curse.com/bukkit-plugins/minecraft/armorhud)
+
+[InfernalMods](https://dev.bukkit.org/bukkit-plugins/infernal-mobs/) `4.9.1` 1.8-1.10
+
+> 自定义怪物
+
 ---
 
-[FastAsyncWorldEdit]() `3.5.1` Support 1.9
-
-> 加快WE运行速度，减少蹦服情况
->
-> [Spigot](https://www.spigotmc.org/resources/free-fast-async-worldedit-voxelsniper-%CE%B2eta.13932/)	[下载地址](http://ci.athion.net/job/FastAsyncWorldEdit/)
+[Maybe可以参考一下？](https://clients.mcprohosting.com/knowledgebase/22/Recommended-Minecraft-Plugins.html)
