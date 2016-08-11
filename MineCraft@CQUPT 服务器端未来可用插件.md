@@ -102,3 +102,9 @@
 > 口渴插件。已支持1.9
 >
 > [Bukkit](http://dev.bukkit.org/bukkit-plugins/byte-thirst/)
+
+[MCStatus]
+
+> 检测MC现在是否可用
+>
+> [GitHub](https://github.com/xPaw/mcstatus)
